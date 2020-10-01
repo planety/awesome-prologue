@@ -36,7 +36,9 @@ plugins for prologue
 
 * [nimongo](https://github.com/SSPkrolik/nimongo) - Pure Nim lang MongoDB driver.
 
-* [asyncpg](https://github.com/cheatfate/asyncpg) - Asynchronous PostgreSQL driver for Nim language
+* [asyncpg](https://github.com/cheatfate/asyncpg) - Asynchronous PostgreSQL driver for Nim language.
+
+* [pg](https://github.com/treeform/pg) - Very simple PostgreSQL async api for nim.
 
 * [amysql](https://github.com/bung87/amysql) - Async MySQL Connector write in pure Nim.
 
