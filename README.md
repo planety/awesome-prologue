@@ -51,6 +51,8 @@ plugins for prologue
 * [nim-httpauth](https://github.com/FedericoCeratto/nim-httpauth) - HTTP Authentication library for Nim.
 
 * [oauth](https://github.com/CORDEA/oauth) - OAuth library for Nim.
+
+* [nim-jwt](https://github.com/yglukhov/nim-jwt) - JWT implementation for nim-lang.
  
 ## Documentation
 
