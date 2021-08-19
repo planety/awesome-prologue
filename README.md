@@ -13,7 +13,7 @@ plugins for prologue
 
 * [nim-templates](https://github.com/onionhammer/nim-templates) A simple string templating library for Nim.
 
-* [nimWebTemplates](https://github.com/enthus1ast/nimWebTemplates) Experiment to build a jinja like template parser.
+* [nimja](https://github.com/enthus1ast/nimja) Typed and compiled template engine inspired by jinja2, twig and onionhammer/nim-templates for Nim. 
 
 * [nim-html-dsl](https://github.com/juancarlospaco/nim-html-dsl) Nim HTML DSL.
 
