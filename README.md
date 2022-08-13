@@ -53,6 +53,8 @@ plugins for prologue
 * [oauth](https://github.com/CORDEA/oauth) - OAuth library for Nim.
 
 * [nim-jwt](https://github.com/yglukhov/nim-jwt) - JWT implementation for nim-lang.
+
+* [rbac](https://github.com/ba0f3/rbac.nim) - Simple Role-based Access Control library.
  
 ## Documentation
 
